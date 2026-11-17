@@ -1,0 +1,25 @@
+To complete **Task 2**, you need to add the standard **Apache 2.0 license** file named exactly `LICENSE` to the root directory of your public GitHub repository, and then submit the public URL for that file.
+
+---
+
+### **Step 1: Create the `LICENSE` file on GitHub**
+
+1. Go to your repository on GitHub.
+2. Click on **Add file** -> **Create new file**.
+3. Name the file exactly **`LICENSE`** (all caps, no file extension like `.txt` or `.md`).
+4. Paste the official **Apache 2.0 License** text into the editor. (GitHub's file creator often provides a template picker on the right side if you type `LICENSE`, where you can select "Apache License 2.0" automatically).
+5. Click **Commit changes...** and save.
+
+---
+
+### **Step 2: Get the Public GitHub Repository URL**
+
+1. Once committed, click on the `LICENSE` file in your repository file list.
+2. Copy the URL from your browser's address bar.
+
+Your submission URL will look similar to this:
+
+```text
+https://github.com/<your-github-username>/<your-repository-name>/blob/main/LICENSE
+
+```
